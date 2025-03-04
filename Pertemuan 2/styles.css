@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    margin: 0 25px;
+    font-family: Roboto, sans-serif;
+    flex-direction: column;
+}
+
+p {
+    margin: 10px 0;
+    color: gray;
+    text-align: justify ;
+}
+
+a {
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.black_para{
+    color: black;
+}
+
+div {
+    margin: 15px 0;
+
+}
+
+.start_bold {
+    color: black;
+    font-size: 2em;
+    font-weight: 900;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    margin: 0;
+    text-align: center;
+    font-weight: 900;
+}
+
+h2 {
+    margin: 0;
+}
+
+cite {
+    margin: 0;
+    color: gray;
+    font-style: normal;
+    font-size: smaller;
+}
